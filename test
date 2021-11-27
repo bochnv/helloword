@@ -1,0 +1,38 @@
+<DOCTYPE html>
+	<html>
+		<head>
+			<link rel="stylesheet" href="style.css">
+			<title>TEST Z BOCHENW</title>
+		</head>
+		<body background="OIP.png">
+			<audio src="jojo.mp3" controls></audio>
+			<div 
+     class="loading-animation"
+     data-text="Loading..."
+>
+  Loading...
+</div>
+			<h1>STRONA TESTOWA!!!2137</h1>
+<div class="hero">
+				<nav>
+					<ul>
+						<li><a href="">STRONA GŁÓWNA</a></li>
+						<li><a href="">4FUN</a></li>
+						<li><a href="">SERVICES</a></li>
+						<li><a href="">USTAWIENIA</a></li>
+					</ul>
+				</nav>
+			</div>
+			<button>
+				Kliknij tutaj!;)
+			</button>
+			<script type="text/javascript" src="http://bajery.net/js/c.js?id=41"></script>
+			<script type="text/javascript" src="http://bajery.net/js/fl.js?img[]=nyan&timer=75&num=1"></script>
+			Ilość wejść: <script type="text/javascript" src="http://bajery.net/adds/count.php?id=22002"></script>
+			<script type="text/javascript" src="http://bajery.net/js/fl.js?img[]=file%3A%2F%2F%2FC%3A%2FUsers%2F48575%2FDesktop%2Fmilos.png&timer=75&num=3"></script>
+			<script type="text/javascript" src="http://bajery.net/js/zg.js?c[]=FF19BA&c[]=77FF33&timer=50&t=WBIJAJ%20NA%20DISCORDA!&s=10"></script>
+			<style type="text/css">body, a, a:hover {cursor: url(data:image/png;base64,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) 0 0, default;}</style><div style="font-size: x-small;"><a href="http://profilki.pl/generatory/generator-kursorow"></a></div>
+
+		</body>
+	</html>z
+ 
